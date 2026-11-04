@@ -1,4 +1,4 @@
-# Contents of cn.aicwiki.com
+# Contents of aicwiki.com
 
 ![status](https://status.shiro.dev/api/badge/13/status?style=for-the-badge)
 
