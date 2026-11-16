@@ -54,4 +54,4 @@ dateCreated: '2024-01-29T19:10:30.693Z'
 # 百科编辑
 - [实用工具](/useful-tools)
 - [扩展语法](/extend-function)
-- [模板](/t/wiki-template)
+- [模板](/_tags?t=wiki-template)
