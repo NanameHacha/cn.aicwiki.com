@@ -17,12 +17,12 @@ dateCreated: '2025-03-23T09:43:30.953Z'
 | 英文名称 | Armored Puppet |
 | 最大 HP | 70 |
 | 最大 MP | 180 |
-| 掉落素材 | [木偶的右手](/zh/item/golem’s-right-hand) |
-| 相关魔物 | [木偶店主](/zh/enemy/sales-puppet)、[机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated) |
+| 掉落素材 | [木偶的右手](/item/golem’s-right-hand) |
+| 相关魔物 | [木偶店主](/enemy/sales-puppet)、[机甲木偶（污染体）](/enemy/armoured-wooden-puppet-contaminated) |
 
 # 出现地点
 
-诺艾儿杀死[木偶店主](/zh/enemy/sales-puppet)后，机甲木偶可能在[木偶复仇战](/zh/battle-locations/puppet-revenge)中生成。
+诺艾儿杀死[木偶店主](/enemy/sales-puppet)后，机甲木偶可能在[木偶复仇战](/battle-locations/puppet-revenge)中生成。
 
 # 行动方式
 

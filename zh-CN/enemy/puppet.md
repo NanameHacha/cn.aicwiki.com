@@ -19,8 +19,8 @@ dateCreated: '2024-04-28T11:21:35.486Z'
 | 英文名称 | Puppet |
 | 最大 HP | 40 |
 | 最大 MP | 140 |
-| 掉落素材 | [木偶的右手](/zh/item/golem’s-right-hand) |
-| 相关魔物 | [木偶（污染体）](/zh/enemy/giant)、[木马](/zh/enemy/wooden-horse)、[杂波干扰器](/zh/enemy/rainmaker)、[导弹发射架](/zh/enemy/missile-launcher)、[光束发射台](/zh/enemy/laser) |
+| 掉落素材 | [木偶的右手](/item/golem’s-right-hand) |
+| 相关魔物 | [木偶（污染体）](/enemy/giant)、[木马](/enemy/wooden-horse)、[杂波干扰器](/enemy/rainmaker)、[导弹发射架](/enemy/missile-launcher)、[光束发射台](/enemy/laser) |
 
 # 出现地点
 

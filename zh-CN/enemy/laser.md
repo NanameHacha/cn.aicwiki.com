@@ -19,11 +19,11 @@ dateCreated: '2024-04-29T05:22:10.821Z'
 | 最大 HP | 200 |
 | 最大 MP | 200 |
 | 掉落素材 | [电路板]() |
-| 相关魔物 | [木偶](/zh/enemy/puppet) |
+| 相关魔物 | [木偶](/enemy/puppet) |
 
 # 出现地点
 
-除以下战斗点外，光束发射台也可能经由[木偶](/zh/enemy/puppet)的机关建造生成，或者在拓荒者山岳的[木偶复仇战](/zh/battle-locations/puppet-revenge)中自然生成。
+除以下战斗点外，光束发射台也可能经由[木偶](/enemy/puppet)的机关建造生成，或者在拓荒者山岳的[木偶复仇战](/battle-locations/puppet-revenge)中自然生成。
 
 ## 拓荒者山岳
 

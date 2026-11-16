@@ -19,8 +19,8 @@ dateCreated: '2024-04-29T04:43:10.575Z'
 | 英文名称 | Mushroom |
 | 最大 HP | 40 |
 | 最大 MP | 340 |
-| 掉落素材 | [黑棉孢子](/zh/item/black-cotton-spores) |
-| 相关魔物 | [蘑菇（污染体）](/zh/enemy/mushroom-contaminated) |
+| 掉落素材 | [黑棉孢子](/item/black-cotton-spores) |
+| 相关魔物 | [蘑菇（污染体）](/enemy/mushroom-contaminated) |
 
 # 出现地点
 

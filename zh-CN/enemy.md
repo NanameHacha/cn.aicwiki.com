@@ -23,7 +23,7 @@ dateCreated: '2024-01-29T18:11:16.969Z'
 
 **魔族**（Monster）是一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物，通常聚集在白色魔力植物汇聚的位置。因此如果发现某个区域遍布魔力植物，那么就要当心了，你可能已经进入了魔族的地盘。
 
-游戏中，如果采集魔力植物或是主动进入与魔族的战斗，魔族就会现身与诺艾儿战斗。魔族与诺艾儿一样拥有魔力值的设定，详情参见[魔力系统](/zh/mana-crystal)。
+游戏中，如果采集魔力植物或是主动进入与魔族的战斗，魔族就会现身与诺艾儿战斗。魔族与诺艾儿一样拥有魔力值的设定，详情参见[魔力系统](/mana-crystal)。
 
 一些魔族存在强大的污染体变种。少量污染体会在一些战斗点无视天气生成。此外，雷暴天气时一些魔族在生成时会变成其对应的污染体。
 
@@ -33,61 +33,61 @@ dateCreated: '2024-01-29T18:11:16.969Z'
 
 ## 普通
 
-- [史莱姆](/zh/enemy/slime)：原始的魔族。
-- [蘑菇](/zh/enemy/mushroom)：栖息于潮湿环境的魔族。
-- [愚者](/zh/enemy/the-fool)：学习并复现了第一世代魔法「雷霆电击」，只会在夜晚出现的特殊魔族。
-- [幼犬](/zh/enemy/puppy)：身上缠绕着大量蠕虫型幼体，四处奔跑的魔族。
-- [木偶](/zh/enemy/puppet)：主要栖息在废弃矿道中的群居性魔族。
-- [土蛇](/zh/enemy/mole-snake)：游走在地面之下，在潜伏中突然钻出并束缚住猎物的魔族。
-- [海绵](/zh/enemy/porifera)：在枝杈末梢的黑色球体中储存大量魔力的魔族。
-- [剑山](/zh/enemy/urchin)：全身覆盖着尖刺的魔族。
-- [妖狐](/zh/enemy/nine-tailed-fox)：在森林中划地为王的稀有魔族。
-- [木马](/zh/enemy/wooden-horse)<!--等待图鉴完善-->
-- [杂波干扰器](/zh/enemy/rainmaker)<!--等待图鉴完善-->
-- [导弹发射架](/zh/enemy/missile-launcher)<!--等待图鉴完善-->
-- [光束发射台](/zh/enemy/laser)<!--等待图鉴完善-->
-- [壁虎](/zh/enemy/lizard)：能以四足吸附在墙面上奔跑的魔族。
-- [沼蛙](/zh/enemy/frog)：以沼泽为领地的稀有魔族。
-- [机甲木偶](/zh/enemy/armoured-wooden-puppet)<!--等待图鉴完善-->
-- [五足](/zh/enemy/pentapod)：栖息在山中的魔族。其高悬在上方的头部会发射特殊的光束。
-- [野猪](/zh/enemy/boar)：栖息在山中的魔族。不仅身形庞大，而且行动灵敏。
-- [触须怪](/zh/enemy/roper)：栖息在山中的魔族。细长的身体中伸出的无数触手，每根都能够缠绕在精灵身上吸取魔力。
-- [酒壶](/zh/enemy/lambda)：栖息在山中的魔族。体型不大，但其口器却足以将猎物整口吞下。
-- [巢厄](/zh/enemy/hive)：魔族巢穴，扎根地面后，会有小型魔族从中钻出。
-- [蜂巢](/zh/enemy/honeycomb)：这一魔族生物具有六边形巢穴的结构，其中栖息着大量幼虫。
-- [蚂蝗](/zh/enemy/leech)：栖息在山中的蠕虫状魔族，个体相当脆弱。
-- [女王蚂蟥](/zh/enemy/queen-leech)<!--等待图鉴完善-->
-- [皇后](/zh/enemy/empress)<!--等待图鉴完善-->
-- [宝箱怪](/zh/enemy/mimic)<!--等待图鉴完善-->
+- [史莱姆](/enemy/slime)：原始的魔族。
+- [蘑菇](/enemy/mushroom)：栖息于潮湿环境的魔族。
+- [愚者](/enemy/the-fool)：学习并复现了第一世代魔法「雷霆电击」，只会在夜晚出现的特殊魔族。
+- [幼犬](/enemy/puppy)：身上缠绕着大量蠕虫型幼体，四处奔跑的魔族。
+- [木偶](/enemy/puppet)：主要栖息在废弃矿道中的群居性魔族。
+- [土蛇](/enemy/mole-snake)：游走在地面之下，在潜伏中突然钻出并束缚住猎物的魔族。
+- [海绵](/enemy/porifera)：在枝杈末梢的黑色球体中储存大量魔力的魔族。
+- [剑山](/enemy/urchin)：全身覆盖着尖刺的魔族。
+- [妖狐](/enemy/nine-tailed-fox)：在森林中划地为王的稀有魔族。
+- [木马](/enemy/wooden-horse)<!--等待图鉴完善-->
+- [杂波干扰器](/enemy/rainmaker)<!--等待图鉴完善-->
+- [导弹发射架](/enemy/missile-launcher)<!--等待图鉴完善-->
+- [光束发射台](/enemy/laser)<!--等待图鉴完善-->
+- [壁虎](/enemy/lizard)：能以四足吸附在墙面上奔跑的魔族。
+- [沼蛙](/enemy/frog)：以沼泽为领地的稀有魔族。
+- [机甲木偶](/enemy/armoured-wooden-puppet)<!--等待图鉴完善-->
+- [五足](/enemy/pentapod)：栖息在山中的魔族。其高悬在上方的头部会发射特殊的光束。
+- [野猪](/enemy/boar)：栖息在山中的魔族。不仅身形庞大，而且行动灵敏。
+- [触须怪](/enemy/roper)：栖息在山中的魔族。细长的身体中伸出的无数触手，每根都能够缠绕在精灵身上吸取魔力。
+- [酒壶](/enemy/lambda)：栖息在山中的魔族。体型不大，但其口器却足以将猎物整口吞下。
+- [巢厄](/enemy/hive)：魔族巢穴，扎根地面后，会有小型魔族从中钻出。
+- [蜂巢](/enemy/honeycomb)：这一魔族生物具有六边形巢穴的结构，其中栖息着大量幼虫。
+- [蚂蝗](/enemy/leech)：栖息在山中的蠕虫状魔族，个体相当脆弱。
+- [女王蚂蟥](/enemy/queen-leech)<!--等待图鉴完善-->
+- [皇后](/enemy/empress)<!--等待图鉴完善-->
+- [宝箱怪](/enemy/mimic)<!--等待图鉴完善-->
 
 ## 污染体
 
-- [史莱姆（污染体）](/zh/enemy/slime-contaminated)：不仅吸取了大量魔力，还完全没有理智可言。
-- [蘑菇（污染体）](/zh/enemy/mushroom-contaminated)：或许是想发泄曾经无法移动的怨气，如今拥有了惊人的机动性。
-- [木偶（污染体）](/zh/enemy/giant)：体型更为巨大，且手里的投石器也换成了巨大的棍棒肆意挥舞。
-- [剑山（污染体）](/zh/enemy/urchin-contaminated)：变为污染体后身体十分沉重无法再漂浮，因此只能将刺扎入地面和墙壁支撑自身滚动。
-- [机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated)<!--等待图鉴完善-->
-- [蚂蝗（污染体）](/zh/enemy/leech-contaminated)<!--等待图鉴完善-->
+- [史莱姆（污染体）](/enemy/slime-contaminated)：不仅吸取了大量魔力，还完全没有理智可言。
+- [蘑菇（污染体）](/enemy/mushroom-contaminated)：或许是想发泄曾经无法移动的怨气，如今拥有了惊人的机动性。
+- [木偶（污染体）](/enemy/giant)：体型更为巨大，且手里的投石器也换成了巨大的棍棒肆意挥舞。
+- [剑山（污染体）](/enemy/urchin-contaminated)：变为污染体后身体十分沉重无法再漂浮，因此只能将刺扎入地面和墙壁支撑自身滚动。
+- [机甲木偶（污染体）](/enemy/armoured-wooden-puppet-contaminated)<!--等待图鉴完善-->
+- [蚂蝗（污染体）](/enemy/leech-contaminated)<!--等待图鉴完善-->
 
 ## BOSS
 
-- [森之领主](/zh/enemy/lord-of-the-forest)：栖息于森林的大型魔族。
-- [山蜘蛛](/zh/enemy/mountain-spider)<!--等待图鉴完善-->
+- [森之领主](/enemy/lord-of-the-forest)：栖息于森林的大型魔族。
+- [山蜘蛛](/enemy/mountain-spider)<!--等待图鉴完善-->
 
 ## 特殊
 
-- [奶牛](/zh/enemy/cow)
-- [鸡](/zh/enemy/chicken)
+- [奶牛](/enemy/cow)
+- [鸡](/enemy/chicken)
 
 ## NPC
 
-- [木偶店主](/zh/enemy/sales-puppet)
-- [酒保](/zh/characters#bartender)
-- [钓鱼人](/zh/characters#firstman)
+- [木偶店主](/enemy/sales-puppet)
+- [酒保](/characters#bartender)
+- [钓鱼人](/characters#firstman)
 
 # 属性附加
 
-当[区域危险度](/zh/battle-locations#危险度)升高或诺艾儿处理特定的工会委托时，一些魔族在生成时会附带一个或多个属性。
+当[区域危险度](/battle-locations#危险度)升高或诺艾儿处理特定的工会委托时，一些魔族在生成时会附带一个或多个属性。
 
 ## 属性分类
 
@@ -96,7 +96,7 @@ dateCreated: '2024-01-29T18:11:16.969Z'
 ### 数值属性
 - 攻击强化：攻击力提升。表现为带有红色粒子效果，与魔族在击杀了其他魔族时获得攻击力提升的粒子效果相同。
 - 防御强化：防御力提升。表现为带有蓝色粒子效果，与魔族在击杀了其他魔族时获得防御力提升的粒子效果相同。
-- 魔力稳态：魔力恒定为生成时的初始数值，因此往往可以连续使用消耗魔力的攻击手段，且即使受击也不会被削弱（参见[魔力系统](/zh/mana-crystal)）。表现为身体变为带有动态环状纹理的白色。
+- 魔力稳态：魔力恒定为生成时的初始数值，因此往往可以连续使用消耗魔力的攻击手段，且即使受击也不会被削弱（参见[魔力系统](/mana-crystal)）。表现为身体变为带有动态环状纹理的白色。
 
 ### 元素属性
 - 野火：一些攻击变为火焰属性伤害，可能附加燃烧效果，且常伴有火苗飞溅。表现为带有橙色轮廓。
@@ -132,13 +132,13 @@ nel.NDAT.EnemyDescryption.nattr_decline
 
 以下情况可能使魔族在生成时获得属性附加：
 
-- 个别战斗点在[区域危险度](/zh/battle-locations#危险度)升高时为部分魔族附加固定属性。能够获得该属性附加的魔族数量随[区域危险度](/zh/battle-locations#危险度)升高而增加。<!--数据来源：summon.csv（%ENATTR），EnemySummoner.getEnemyCountFromScript(_c)-->
+- 个别战斗点在[区域危险度](/battle-locations#危险度)升高时为部分魔族附加固定属性。能够获得该属性附加的魔族数量随[区域危险度](/battle-locations#危险度)升高而增加。<!--数据来源：summon.csv（%ENATTR），EnemySummoner.getEnemyCountFromScript(_c)-->
 - 工会委托的任务描述中可能带有「属性附加」词条，在上一点的基础上，为随机魔族附加属性。委托若指定了**数值属性**将会覆盖魔族原有的**数值属性**，委托若指定了**元素属性**将会覆盖魔族原有的**元素属性**。<!--数据来源：nel.smnp.SummonerPlayer.prepareEnemyEnAttr()-->
-- [区域危险度](/zh/battle-locations#危险度)升高时所有魔族额外获得随机属性附加。该附加遵循以下原则：
+- [区域危险度](/battle-locations#危险度)升高时所有魔族额外获得随机属性附加。该附加遵循以下原则：
   1. 已经获得来自工会委托的属性附加的魔族无法继续获得额外附加。<!--数据来源：nel.smnp.SummonerPlayer.prepareEnemyEnAttr()-->
   2. **元素属性**是专一的，即已经拥有**元素属性**的魔族无法额外获得新的**元素属性**，任何魔族也无法同时拥有多种**元素属性**。<!--数据来源：NightController.summoner_nattr_attach()-->
-  3. 能够获得额外属性附加的魔族数量存在上限，其具体数值与[区域危险度](/zh/battle-locations#危险度)、委托类型及附加词条、时间是否为夜晚等诸多因素有关。<!--数据来源：NightController.summoner_attachable_nattr_max()，NightController.cur_dlevel_nattr()-->
-  4. 每个魔族能够额外获得的属性附加的种类数存在固定总权重，其具体数值与[区域危险度](/zh/battle-locations#危险度)、委托类型及附加词条等诸多因素有关，为 1 至 3 之间的整数。<!--数据来源：NightController.summoner_attachable_nattr_kind_max()-->
+  3. 能够获得额外属性附加的魔族数量存在上限，其具体数值与[区域危险度](/battle-locations#危险度)、委托类型及附加词条、时间是否为夜晚等诸多因素有关。<!--数据来源：NightController.summoner_attachable_nattr_max()，NightController.cur_dlevel_nattr()-->
+  4. 每个魔族能够额外获得的属性附加的种类数存在固定总权重，其具体数值与[区域危险度](/battle-locations#危险度)、委托类型及附加词条等诸多因素有关，为 1 至 3 之间的整数。<!--数据来源：NightController.summoner_attachable_nattr_kind_max()-->
   5. **数值属性**和**元素属性**的权重为 1 ，而**外观属性**的权重为 2 。因此，自然生成的魔族不会同时拥有「隐形」和「巨大化」。<!--数据来源：EnemyAttr.attachKind()-->
   6. 特殊地，在总权重为 2 且被附加的随机属性被决定为两种**数值属性**时，它们必定为「攻击强化」和「防御强化」。<!--可能是为了难度平衡？数据来源：EnemyAttr.attachKind()-->
 - 在贝尔米特废弃库房的模拟战斗中，属性的附加只需满足属性排斥和**元素属性**专一的原则即可，单个魔族能够获得的属性附加的数量和种类可以突破上述仅适用于自然生成魔族的上限。

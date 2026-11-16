@@ -17,7 +17,7 @@ dateCreated: '2025-11-22T09:15:55.459Z'
 
 # 地图
 
-为 WePlay Expo 准备的拓荒者山岳地图经过特别调整，添加了一段新手教程。其余的与常规版本无异，详见[地图](/zh/maps)。
+为 WePlay Expo 准备的拓荒者山岳地图经过特别调整，添加了一段新手教程。其余的与常规版本无异，详见[地图](/maps)。
 
 ![alice_in_cradle_地图_拓荒者山岳_weplay_expo_2025_ver.20251122a.png](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-weplay-expo-2025-ver.20251122a.png =913x){ .pixelated-image }
 

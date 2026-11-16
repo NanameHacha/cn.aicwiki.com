@@ -59,7 +59,7 @@ dateCreated: '2024-05-06T05:02:35.489Z'
 | ![图标](/assets/global/items/map-marker/cup.png){ .pixelated-image } | 杯子 |
 
 ### 木偶的路边小站
-以下地图标注印章可向[木偶店主](/zh/enemy/sales-puppet)交易获取：
+以下地图标注印章可向[木偶店主](/enemy/sales-puppet)交易获取：
 
 | 图标 | 名称 |
 | - | - |

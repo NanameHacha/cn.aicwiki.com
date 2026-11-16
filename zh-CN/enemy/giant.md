@@ -20,8 +20,8 @@ dateCreated: '2024-04-30T02:59:17.264Z'
 | 英文名称 | Puppet (Contaminated) |
 | 最大 HP | 400 |
 | 最大 MP | 280 |
-| 掉落素材 | [木偶的右手](/zh/item/golems-right-hand) |
-| 相关魔物 | [木偶](/zh/enemy/puppet) |
+| 掉落素材 | [木偶的右手](/item/golems-right-hand) |
+| 相关魔物 | [木偶](/enemy/puppet) |
 
 # 出现地点
 
