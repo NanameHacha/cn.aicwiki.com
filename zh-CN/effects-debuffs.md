@@ -1,0 +1,109 @@
+---
+title: 异常状态
+description: 在战斗等事件中获取的大多为负面的状态效果。
+published: true
+date: '2026-04-11T19:15:29.017Z'
+tags:
+  - gameplay
+editor: markdown
+dateCreated: '2024-01-29T18:17:50.485Z'
+---
+
+**异常状态**是诺艾儿在战斗等事件中获取的大多为负面的状态效果。
+
+一些异常状态具有多个等级，更高的等级通常会继承低等级的所有效果，并进一步增强效果。
+
+# 效果列表
+
+异常状态的效果罗列于下表。请注意，部分效果可能暂无常规途径获取：
+
+| 图标 | 名称 | 描述 |
+| - | - | - |
+|  | 濒死 | <font color="#FF729F">【HP 低于最大 HP 的 15%】</font>HP为 0 时将失去行动能力。 |
+| ![](/assets/global/icons/abnormality/mp-reduce.png =32x){ .buff-icon } | 枯竭 | <font color="#FF729F">【MP 低于最大 MP 的 15%】</font>无法奔跑或进行闪避。 |
+|  | 无法战斗 | <font color="#FF729F">【HP 为 0】</font>在魔物们心满意足之前，请耐心等待吧。<font color="#FF729F">长按<kbd>X</kbd>放弃…</font> |
+| ![](/assets/global/icons/abnormality/sexercise_1.png =32x){ .buff-icon } | 催淫 | 兴奋度变得更容易上升。能略微防止 MP 计量槽的破裂。 |
+| ![](/assets/global/icons/abnormality/sexercise_2.png =32x){ .buff-icon } | 催淫 Lv.2 | 在高潮并恢复冷静前都无法解除。受到性攻击时更容易产生显著的兴奋度上升。有更大的概率产生「欲火中烧」状态，且状态发生后立即进入自慰状态。 |
+| ![](/assets/global/icons/abnormality/shamed.png =32x){ .buff-icon } | 羞耻 | 因为羞耻导致精神难以集中。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 |
+|  | 羞耻（魔力流失） | 因为羞耻导致精神难以集中。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 |
+| ![](/assets/global/icons/abnormality/shamed.png =32x){ .buff-icon } | 羞耻（濡湿） | 内裤弄脏了……虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 |
+| ![](/assets/global/icons/abnormality/shamed_ep.png =32x){ .buff-icon } | 羞耻（兴奋） | <font color="#FF729F">【兴奋率在 50% 以上】</font>无法抑制住性兴奋……虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 |
+| ![](/assets/global/icons/abnormality/egged-1.png =32x){ .buff-icon } | 怀卵 | 子宫中怀有魔物的卵。魔法攻击力略微上升，但会降低咏唱速度和普通攻击力。会对魔法的咏唱和「魔法霰弹」产生反应，并吸收 MP。非战斗状态时可自行取出。 |
+| ![](/assets/global/icons/abnormality/egged-2.png =32x){ .buff-icon } | 怀卵 Lv.2 | <font color="#FF729F">【卵填充 70% 以上的 MP 计量槽】</font>兴奋度变得更容易上升。MP 计量槽变得非常容易破裂。产卵时的排出时间增加一倍。卵会自动排出。 |
+|  | 产卵 | 魔物的卵孵化，并向子宫外排出。该状态结束之前无法行动。 |
+|  | 无法产卵 | 产道中塞满了异物，似乎无法将魔物的卵排出。 |
+|  | 吞食 | 被吞入魔物体内。进行抵抗，或者等待魔物自行吐出。 |
+| ![](/assets/global/icons/abnormality/shield-break.png =32x){ .buff-icon } | 破盾 | 护盾被击碎。到恢复正常为止将受到 1.5 倍的伤害。 |
+| ![](/assets/global/icons/abnormality/burned.png =32x){ .buff-icon } | 燃烧 | 衣服着火了。等待其自然熄灭、或者通过接触水解除。 |
+| ![](/assets/global/icons/abnormality/confuse-1.png =32x){ .buff-icon } | 混乱 | 方向键的操控效果颠倒。 |
+| ![](/assets/global/icons/abnormality/confuse-2.png =32x){ .buff-icon } | 混乱 Lv.2 | 显示 HP、MP 的界面变得不可见。 |
+| ![](/assets/global/icons/abnormality/confuse-3.png =32x){ .buff-icon } | 混乱 Lv.3 | <font color="#FF2B79">状态页面和物品页面的文字变成乱码。</font> |
+| ![](/assets/global/icons/abnormality/paralysis-1.png =32x){ .buff-icon } | 麻痹 | （仅在战斗中）身体偶尔会因麻痹而产生短暂硬直。 |
+| ![](/assets/global/icons/abnormality/paralysis-2.png =32x){ .buff-icon } | 麻痹 Lv.2 | <font style="opacity:0.5">效果增强。</font> |
+| ![](/assets/global/icons/abnormality/paralysis-3.png =32x){ .buff-icon } | 麻痹 Lv.3 | 无法进行奔跑和闪避。此状态会持续到战斗结束。 |
+| ![](/assets/global/icons/abnormality/sleep.png =32x){ .buff-icon } | 睡眠 | 忍不住睡意。在醒来之前无法行动。受到攻击会略微缩短睡眠时间。 |
+| ![](/assets/global/icons/abnormality/orgasm-after-1.png =32x){ .buff-icon } | 恍惚 | 刚刚高潮过后的余韵。无法进行奔跑、且移动速度减慢。防止 MP 计量槽的破裂。降低魔力的恢复效率。 |
+| ![](/assets/global/icons/abnormality/orgasm-after-2.png =32x){ .buff-icon } | 恍惚 Lv.2 | 大幅降低魔力的恢复效率。遭到性方面的攻击时更难从拘束状态中脱离。 |
+| ![](/assets/global/icons/abnormality/frustrated.png =32x){ .buff-icon } | 欲火中烧 | 性欲得不到满足。在遭到性方面攻击时非常难从拘束状态中脱离。MP 的吸收效率显著增大。站着不动的话会擅自开始自慰。高潮过后会自动解除，但解除后会进入恍惚 Lv.2 状态，并且需要输入更多指令来起身。 |
+| ![](/assets/global/icons/abnormality/forbidden_orgasm.png =32x) | 禁止高潮 | 性兴奋度最高会止于 95%。更容易出现欲火中烧状态。 |
+| ![](/assets/global/icons/abnormality/parasitised-1.png =32x){ .buff-icon } | 植物寄生 | 会从宿主身上慢慢吸取 HP。须要打倒施加这一效果的敌人方可解除。 |
+| ![](/assets/global/icons/abnormality/parasitised-2.png =32x){ .buff-icon } | 植物寄生 Lv.2 | <font style="opacity:0.5">效果增强。</font> |
+| ![](/assets/global/icons/abnormality/parasitised-3.png =32x){ .buff-icon } | 植物寄生 Lv.3 | <font style="opacity:0.5">效果增强。</font> |
+| ![](/assets/global/icons/abnormality/burst-tired.png =32x){ .buff-icon } | 晕厥 | 因承受强烈精神负荷而无法行动的状态。恢复前无法行动，也无法再次使用圣光爆发。 |
+| ![](/assets/global/icons/abnormality/jamming-1.png =32x){ .buff-icon } | 杂念 | 咏唱魔法所需的时间变为原来的 2 倍。 |
+| ![](/assets/global/icons/abnormality/jamming-2.png =32x){ .buff-icon } | 杂念 Lv.2 | 咏唱魔法所需的时间变为原来的 3 倍。 |
+| ![](/assets/global/icons/abnormality/jamming-3.png =32x){ .buff-icon } | 杂念 Lv.3 | 咏唱魔法所需的时间变为原来的 4 倍。 |
+| ![](/assets/global/icons/abnormality/frozen-1.png =32x){ .buff-icon } | 冻结 | 咏唱魔法所需的时间变为原来的 1.5 倍。移动速度和挣脱的效率也相应地降低。通过挣扎（快速连打方向键）可以更快地解除此状态。受到物理攻击也会加速此状态的解除，但是受到的伤害会增加。 |
+| ![](/assets/global/icons/abnormality/frozen-2.png =32x){ .buff-icon } | 冻结 Lv.2 | 咏唱魔法所需的时间变为原来的 3 倍。无法进行奔跑和闪避。移动速度和挣脱的效率也相应地降低。 |
+| ![](/assets/global/icons/abnormality/frozen-3.png =32x){ .buff-icon } | 冻结 Lv.3 | 此状态下无法移动或咏唱魔法。 |
+| ![](/assets/global/icons/abnormality/near-pee-1.png =32x){ .buff-icon } | 尿意 | 想去洗手间。MP 计量槽变得容易破裂。容易从拘束中挣脱。 |
+| ![](/assets/global/icons/abnormality/near-pee-2.png =32x){ .buff-icon } | 尿意 Lv.2 | 跌倒时可能会失禁。 |
+| ![](/assets/global/icons/abnormality/drunk-1.png =32x){ .buff-icon } | 晕乎乎 | 摄入酿精后意识飘飘欲仙。从料理中获得的增益效果减少<$min(90\%, Lv\times10\%)$>。一定程度上防止 MP 计量槽发生破裂，但魔力恢复效率降低。该效果无法通过坐在长椅上解除，只能通过进行一段时间的战斗，或者喝水来恢复。 |
+| ![](/assets/global/icons/abnormality/drunk-2.png =32x){ .buff-icon } | 晕乎乎 Lv.2 | 偶尔会踉踉跄跄跌倒在地。 |
+| ![](/assets/global/icons/abnormality/drunk-2.png =32x){ .buff-icon } | 晕乎乎 Lv.3 | 真不应该喝那么多的…… |
+| ![](/assets/global/icons/abnormality/overrun-tired.png =32x){ .buff-icon } | 疲惫 | 魔力枯竭时仍勉强使用魔法导致疲劳不堪，增加受到的伤害。MP 计量槽变得容易碎裂，且更容易进入「晕厥」状态。可通过在地图间移动来缓解。 |
+|  | 母乳体质 | 在大地奇异力量的作用下，本应漏出诺艾儿汁的时候，流出的却常常是诺艾儿乳。究其原理……总之就是大地的奇异力量。 |
+| ![](/assets/global/icons/abnormality/clt_broken.png =32x){ .buff-icon } | 服装损坏 | 衣服破破烂烂的。坐在长椅上可以重新修补好。（启用「衣损惩罚」时：受到的伤害变为原来的 1.5 倍。闪避的无敌时间延长。） |
+| ![](/assets/global/icons/abnormality/web-trapped-1.png =32x){ .buff-icon } | 黏糊糊 | 身上挂满粘液因此更难摆脱拘束攻击。在挣脱出来之前无法行动。 |
+| ![](/assets/global/icons/abnormality/web-trapped-2.png =32x){ .buff-icon } | 黏糊糊 Lv.2 | <font style="opacity:0.5">效果增强。</font> |
+| ![](/assets/global/icons/abnormality/web-trapped-3.png =32x){ .buff-icon } | 黏糊糊 Lv.3 | <font style="opacity:0.5">效果增强。</font> |
+| ![](/assets/global/icons/abnormality/stone-1.png =32x){ .buff-icon } | 石化 | 咏唱魔法所需的时间变为原来的 1.5 倍。移动速度和挣脱的效率也相应地降低。通过挣扎（快速连打方向键）可以更快地解除此状态。此状态下受到的伤害会减少。 |
+| ![](/assets/global/icons/abnormality/stone-2.png =32x){ .buff-icon } | 石化 Lv.2 | 咏唱魔法所需的时间变为原来的 3 倍。无法进行奔跑和闪避。移动速度和挣脱的效率也相应地降低。 |
+| ![](/assets/global/icons/abnormality/stone-3.png =32x){ .buff-icon } | 石化 Lv.3 | 此状态下无法移动或咏唱魔法。 |
+| ![](/assets/global/icons/abnormality/stone-4.png =32x){ .buff-icon } | 完全石化 | 身体从内到外都变成石头无法复原了…… |
+|  | 高潮蓄积 | 无法高潮带来的渴求感积少成多…在最终释放解脱的时候想必会汹涌而出。 |
+| ![](/assets/global/icons/abnormality/poison-2.png =32x){ .buff-icon } | 中毒 | HP 因沾染毒物而缓慢减少，但不会直接导致阵亡。该状态下食物带来的增益效果减半。对于普通及以下难度的 HP 自动恢复机制，该异常状态亦将使恢复速度减半。 |
+| ![](/assets/global/icons/abnormality/poison-3.png =32x){ .buff-icon } | 剧毒 | 因中毒程度加深，无法靠自然代谢痊愈。即便坐在长椅上休息也无法消除。 |
+| ![](/assets/global/icons/abnormality/fainted.png =32x){ .buff-icon } | 昏迷 | 暂时失去意识，无法行动。 |
+| ![](/assets/global/icons/abnormality/atk-up.png =32x){ .buff-icon } | 攻击力上升 | 攻击力上升<$(1.3^{Lv}-1)\times100\%$>。 |
+| ![](/assets/global/icons/abnormality/def-up.png =32x){ .buff-icon } | 防御力上升 | 防御力上升<$(1-0.75^{Lv})\times100\%$>。 |
+| ![](/assets/global/icons/abnormality/atk-down.png =32x){ .buff-icon } | 攻击力下降 | 攻击力下降<$(1-0.75^{Lv})\times100\%$>。 |
+| ![](/assets/global/icons/abnormality/def-down.png =32x){ .buff-icon } | 防御力下降 | 防御力下降<$(1.25^{Lv}-1)\times100\%$>。 |
+| ![](/assets/global/icons/abnormality/cocoon.png =32x){ .buff-icon } | 茧缚 | 被丝线形成的茧包裹其中。此状态下魔力的恢复速率会有所上升，但挣脱的效率会下降。 |
+{ .table-buff }
+<!--
+攻击力防御力上升下降相关数据来源：
+M2SerItem.getDesc()
+M2SerLis_ATK_DEF_UPDOWN.init()
+-->
+
+# 效果列表（恐惧描写）
+
+启用「恐惧描写」时，部分异常状态会被替换为对应的「恐惧描写」版本。这些效果罗列于下表：
+
+| 图标 | 名称 | 描述 | 替换 |
+| - | - | - | - |
+| ![](/assets/global/icons/abnormality/sexercise-fear-1.png =32x){ .buff-icon } | 怯懦 | 恐惧值变得更容易上升。能略微防止 MP 计量槽的破裂。 | 催淫 |
+| ![](/assets/global/icons/abnormality/sexercise-fear-2.png =32x){ .buff-icon } | 怯懦 Lv.2 | <font style="opacity:0.5">效果增强。</font> | 催淫 Lv.2 |
+| ![](/assets/global/icons/abnormality/shamed-fear.png =32x){ .buff-icon } | 羞耻 | 因为羞耻导致精神难以集中。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 | 羞耻 |
+| ![](/assets/global/icons/abnormality/shamed-fear.png =32x){ .buff-icon } | 羞耻（濡湿） | 内裤弄脏了……虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 | 羞耻（濡湿） |
+| ![](/assets/global/icons/abnormality/shamed-ep-fear.png =32x){ .buff-icon } | 战栗 | <font color="#FF729F">【恐惧值在 50% 以上】</font>因恐惧而导致精神难以集中。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击则更容易散落魔力。 | 羞耻（兴奋） |
+| ![](/assets/global/icons/abnormality/orgasm-after-fear-1.png =32x){ .buff-icon } | 斗志萎靡 | 因过度恐惧而导致行动受限。无法进行奔跑、且移动速度减慢。稍微防止 MP 计量槽的破裂。降低魔力的恢复效率。 | 恍惚 |
+| ![](/assets/global/icons/abnormality/orgasm-after-fear-2.png =32x){ .buff-icon } | 斗志萎靡 Lv.2 | <font style="opacity:0.5">效果增强。</font> | 恍惚 Lv.2 |
+{ .table-buff }
+
+<!-- 以下为游戏本地化文件中记录的效果，即使使用指令也无法获取，应该是已经废弃掉的旧版本效果，仅留此注释作为参考。
+|  | 高潮后 | 刚高潮过后的状态。无法进行奔跑和闪避。能够防止 MP 计量槽的破裂。此外，兴奋度也变得更容易上升。 |
+|  | 恍惚 | 刚高潮过后的状态。到恢复正常为止将受到 1.5 倍的伤害。能够防止 MP 计量槽的破裂。此外，兴奋度也变得更容易上升。 |
+-->
+
