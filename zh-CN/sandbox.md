@@ -2,7 +2,7 @@
 title: 沙盒
 description: 仅供测试编辑使用
 published: false
-date: '2026-03-04T10:24:13.877Z'
+date: '2026-11-16T09:16:14.614Z'
 tags: []
 editor: markdown
 dateCreated: '2024-05-07T16:15:21.071Z'
@@ -45,6 +45,6 @@ dateCreated: '2024-05-07T16:15:21.071Z'
 ![宝箱(无色顺序序).jpg](/宝箱(无色顺序序).jpg)
 
 
-
-
+img test
+![hello.png](/assets/hello.png)
 
