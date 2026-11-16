@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: '2026-10-31T03:32:51.793Z'
+date: '2026-11-16T07:37:22.351Z'
 tags:
   - index
 editor: markdown
@@ -21,16 +21,16 @@ dateCreated: '2024-01-29T14:45:09.477Z'
  
 > “ <ruby>可怜即可爱！<rt>かわいそうはかわいい！</rt></ruby>”<p style="text-align: right;">**——ひなゆあ**</p>
 
-<img style="float: right;" src="/assets/global/hello.png"/>《**<ruby style="color: #b47f4d;">Alice<rt>アリス</rt>&nbsp;in<rt>イン</rt>&nbsp;Cradle<rt>クレイドル</rt></ruby>**》是一款由<a href="https://twitter.com/hinayua_r18" target="_blank" style="color: #56bcf9;" lang="ja">ひなゆあ</a>、<a href="https://twitter.com/HashinoMizuha" target="_blank" style="color: #f6c5cb;" lang="ja">橋野みずは</a>开发的轻度Ryona类银河恶魔城游戏，目前正在制作中。
+<img style="float: right;" src="/assets/hello.png"/>《**<ruby style="color: #b47f4d;">Alice<rt>アリス</rt>&nbsp;in<rt>イン</rt>&nbsp;Cradle<rt>クレイドル</rt></ruby>**》是一款由<a href="https://twitter.com/hinayua_r18" target="_blank" style="color: #56bcf9;" lang="ja">ひなゆあ</a>、<a href="https://twitter.com/HashinoMizuha" target="_blank" style="color: #f6c5cb;" lang="ja">橋野みずは</a>开发的轻度Ryona类银河恶魔城游戏，目前正在制作中。
 
 游戏不定期在 [ci-en]、[官网]和[中文官网]进行免费的试玩版发布，目前最新的试玩版本为 <code id="aic_zip_verdis_global_windows">Loading</code>。
 
 本游戏由官方开发团队进行简体中文版、日文版与英文版的制作，其他语言的译本为粉丝与志愿者投稿。如无特别说明，本百科中的人名、事件、物品、魔法、地名等译名均以简体中文版为准。
 
-如需快速了解本 Wiki 的所有内容，请见[快速参考](/zh/nav)。
+如需快速了解本 Wiki 的所有内容，请见[快速参考](/nav)。
 
-游戏基本操作说明请见[操作说明](/zh/home/control-guide)。
-游戏存档目录说明请见[存档说明](/zh/home/saves-guide)
+游戏基本操作说明请见[操作说明](/home/control-guide)。
+游戏存档目录说明请见[存档说明](/home/saves-guide)
 
 # 内容讨论与问题反馈
 请加入 [Alice in Cradle Discord](https://go.aliceincradle.com/discord) 后访问 `wiki-discussion` 频道。
