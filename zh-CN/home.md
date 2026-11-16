@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: '2026-11-16T09:31:12.096Z'
+date: '2026-11-16T09:31:58.743Z'
 tags:
   - index
 editor: markdown
@@ -57,7 +57,7 @@ dateCreated: '2024-01-29T14:45:09.477Z'
 
 <details>
   <summary>查看 WePlay 2026 场限周边信息</summary>
-![WPE2026](https://i1.hdslb.com/bfs/new_dyn/2f736483cbe593451085afa37e74232d3493078251866300.png)
+<img src=https://i1.hdslb.com/bfs/new_dyn/2f736483cbe593451085afa37e74232d3493078251866300.png></img>
 </details>
 
 ## 表情包
