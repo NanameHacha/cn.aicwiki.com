@@ -2,7 +2,7 @@
 title: 魔族的皮肤
 description: 魔族的表皮。对魔力有优秀的阻隔能力。
 published: true
-date: '2025-07-15T04:06:36.766Z'
+date: '2026-11-18T11:49:57.247Z'
 tags:
   - item
   - item-material
@@ -10,7 +10,7 @@ editor: markdown
 dateCreated: '2025-07-15T04:06:34.553Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-monster-material.png) <span>魔族的皮肤（<ruby lang="ja">魔族の皮膚<rt>Beast's Skin</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-monster-material.png) <span>魔族的皮肤（<ruby lang="ja">魔族の皮膚<rt>Beast's Skin</rt></ruby>）</span></div>||
 | - | - |
 | 魔族的表皮。<br>对魔力有优秀的阻隔能力。 ||
 | 类别 | 素材 |
