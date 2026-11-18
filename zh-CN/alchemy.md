@@ -2,7 +2,7 @@
 title: 炼金
 description: 一种可以制作各种冒险所需的消耗品或容器的方法
 published: true
-date: '2026-08-13T06:51:09.370Z'
+date: '2026-11-18T12:08:13.663Z'
 tags:
   - gameplay
 editor: markdown
@@ -25,7 +25,7 @@ dateCreated: '2024-05-11T09:40:09.328Z'
 <details>
   <summary>点击展开</summary>
 
-  <div class="table-container" data-excel-src="/assets/zh-cn/excel/炼金与合成/炼金-1.xlsx"></div>
+  <div class="table-container" data-excel-src="/assets/excel/炼金与合成/炼金-1.xlsx"></div>
 
 </details>
 
@@ -36,7 +36,7 @@ dateCreated: '2024-05-11T09:40:09.328Z'
 <details>
   <summary>点击展开</summary>
 
-<div class="table-container" data-excel-src="/assets/zh-cn/excel/炼金与合成/炼金-2.xlsx"></div> 
+<div class="table-container" data-excel-src="/assets/excel/炼金与合成/炼金-2.xlsx"></div> 
 
 </details>
 
