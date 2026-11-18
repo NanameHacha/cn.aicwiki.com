@@ -2,7 +2,7 @@
 title: 家禽蛋
 description: 养在山里的家禽生下的蛋。居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。但正因如此，它才有这般美味吧。
 published: true
-date: '2025-04-25T06:43:01.524Z'
+date: '2026-11-18T11:57:21.488Z'
 tags:
   - item
   - item-food
@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:18:11.909Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/egg.png) <span>家禽蛋（<ruby lang="ja">家畜の卵<rt>Livestock Egg</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/egg.png) <span>家禽蛋（<ruby lang="ja">家畜の卵<rt>Livestock Egg</rt></ruby>）</span></div>||
 | - | - |
 | 养在山里的家禽生下的蛋。<br>居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。<br>但正因如此，它才有这般美味吧。 ||
 | 类别 | 食材、蛋类 |
