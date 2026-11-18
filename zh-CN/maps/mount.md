@@ -2,7 +2,7 @@
 title: 拓荒者山岳
 description: 包含矿井和工业设施的野外区域。
 published: true
-date: '2026-09-16T04:58:07.250Z'
+date: '2026-11-18T11:35:57.548Z'
 tags:
   - map
 editor: markdown
@@ -17,15 +17,15 @@ dateCreated: '2026-02-20T06:09:42.404Z'
 
 ### 总览
 
-![拓荒者山岳](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-ver.20260831b.png? =685x){ .pixelated-image }
+![拓荒者山岳](/assets/map/alice-in-cradle-地图-拓荒者山岳-ver.20260831b.png? =685x){ .pixelated-image }
 
 ### NPC刷新点
 
-![拓荒者山岳](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-npc刷新点-ver.20260916a.png =685x){ .pixelated-image }
+![拓荒者山岳](/assets/map/alice-in-cradle-地图-拓荒者山岳-npc刷新点-ver.20260916a.png =685x){ .pixelated-image }
 
 ### 钓鱼点
 
-![拓荒者山岳](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-钓鱼点-ver.20260831b.png =685x){ .pixelated-image }
+![拓荒者山岳](/assets/map/alice-in-cradle-地图-拓荒者山岳-钓鱼点-ver.20260831b.png =685x){ .pixelated-image }
 
 # 地图明细 
 
@@ -33,15 +33,15 @@ dateCreated: '2026-02-20T06:09:42.404Z'
 
 ### 战斗点
 
-![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_战斗点.png](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-战斗点.png)
+![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_战斗点.png](/assets/map/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-战斗点.png)
 
 ### 宝箱
 
-![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_宝箱.png](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-宝箱.png)
+![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_宝箱.png](/assets/map/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-宝箱.png)
 
 ### 资源采集点
 
-![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_资源采集点.png](/assets/zh-cn/地图/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-资源采集点.png)
+![alice_in_cradle_地图_拓荒者山岳_0.29b_260212_地图明细_资源采集点.png](/assets/map/alice-in-cradle-地图-拓荒者山岳-0.29b-260212-地图明细-资源采集点.png)
 
 ## 明细表
 
