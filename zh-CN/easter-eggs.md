@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: '2025-07-20T07:04:31.624Z'
+date: '2026-11-18T11:37:07.018Z'
 tags:
   - gameplay
 editor: markdown
@@ -11,7 +11,7 @@ dateCreated: '2024-01-29T18:23:32.002Z'
 
 # 彩蛋
 
-- ![人偶.webp](/assets/zh-cn/彩蛋/人偶.webp){.align-right}地图上诺艾儿的图标在诺艾儿败北时会变得与原来不同。
+- ![人偶.webp](/assets/easter-eggs/人偶.webp){.align-right}地图上诺艾儿的图标在诺艾儿败北时会变得与原来不同。
 - 姐姐前台后边的架子上有三个人偶，分别是诺艾尔、史莱姆和米尔特校服的桥野みずは
 - 姐姐的工房中，炼金罐后面的墙上挂着两幅画，分别是诺艾儿小学和幼儿园时的样子。
 - 庭院水井下方被水流挡住的小房间是丽薇歌塔的秘密基地，墙上挂着的也是诺艾儿的画像。
@@ -19,7 +19,7 @@ dateCreated: '2024-01-29T18:23:32.002Z'
 - 在游戏中使用技能 “旋风斩击”，把握好跳跃和使用技能的节奏，可以沿着墙或者战斗时的结界边缘向上攀升。作者称已经了解此特性，并表示 “这与游戏《掘地求升》[^1]很类似，但因为不是重大 bug 所以暂不打算立即修复”，“成为铁壶诺艾儿，并向墙壁上的宝箱进发吧！”。该特性一直保留到 0.21r 版本，并最终于 0.22 版本起被修复，但仍可在 ``_debug.txt`` 文件中开启。
 - 在日语的本地化文件 ``__tx_whole.txt`` 中可以找到 “橋野みずはここに眠る” 的字样。
 - 在诺艾儿的房间内挂着的风铃中，有一个挂的实际上是埴轮，另有一个是强化插槽。
-- ![room_forest_secret_glacier_0.png](/assets/global/easter-eggs/room-forest-secret-glacier-0.webp =150x110){.align-right}在遛狗公园（ドッグラン）正上方有一个区域，环境和整个编织者森林完全不同，天空颜色不随时间变化，播放着轻缓的钢琴曲。
+- ![room_forest_secret_glacier_0.png](/assets/easter-eggs/room-forest-secret-glacier-0.webp =150x110){.align-right}在遛狗公园（ドッグラン）正上方有一个区域，环境和整个编织者森林完全不同，天空颜色不随时间变化，播放着轻缓的钢琴曲。
 - 使用二进制编辑器打开存档文件，在文件开头会看到 “kawaisou ha kawaii. kono game ga ironna hito ni todokimasu youni. by hinayua” 的字样（即：“<span lang=ja>かわいそうはかわいい。このゲームが色んな人に届きますように。——byひなゆあ</span>”，意为：“可怜即可爱。祝愿本游戏能够邂逅形形色色的玩家。——hinayua敬上”）。
 - 解包资源文件 ``resources.assets`` 后打开 ``fatal_snake.png``，可以在里面找到一只橋野みずは。
 - 解包资源文件 ``resources.assets`` 后打开 ``hipdown.png``，可以在里面找到一只横着的橋野みずは。
