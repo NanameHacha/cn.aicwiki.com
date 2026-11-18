@@ -2,7 +2,7 @@
 title: 已有/使用中Excel表格文件下载
 description: ''
 published: true
-date: '2025-04-05T16:27:53.280Z'
+date: '2026-11-18T12:11:03.448Z'
 tags: []
 editor: markdown
 dateCreated: '2024-01-29T18:51:46.889Z'
@@ -20,11 +20,10 @@ dateCreated: '2024-01-29T18:51:46.889Z'
 
 | 一级标题/分类 | 二级标题/分类 | 三级标题/分类 | ID(点击下载) |
 | --- | --- | --- | --- |
-| 烹饪 | 烹饪系统 | / | [料理与烹饪-1](/assets/zh-cn/excel/料理与烹饪/料理与烹饪-1.xlsx) |
-| 烹饪 | 烹饪系统 | / | [料理与烹饪-2](/assets/zh-cn/excel/料理与烹饪/料理与烹饪-2.xlsx) |
-| 炼金 | 炼金系统 | / | [炼金-1](/assets/zh-cn/excel/炼金与合成/炼金-1.xlsx) |
-| 炼金 | 炼金系统 | / | [炼金-2](/assets/zh-cn/excel/炼金与合成/炼金-2.xlsx) |
+| 烹饪 | 烹饪系统 | / | [料理与烹饪-1](/assets/excel/料理与烹饪/料理与烹饪-1.xlsx) |
+| 烹饪 | 烹饪系统 | / | [料理与烹饪-2](/assets/excel/料理与烹饪/料理与烹饪-2.xlsx) |
+| 炼金 | 炼金系统 | / | [炼金-1](/assets/excel/炼金与合成/炼金-1.xlsx) |
+| 炼金 | 炼金系统 | / | [炼金-2](/assets/excel/炼金与合成/炼金-2.xlsx) |
 
 
 <!-- | 相关音乐 | / | / | [相关音乐-1](/assets/zh_cn/excel/相关音乐/相关音乐-1.xlsx) | -->
-
