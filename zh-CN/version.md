@@ -53,9 +53,9 @@ dateCreated: '2024-01-29T19:07:22.980Z'
 | 0.28f | 2025 年 7 月 29 日 |
 | 0.28e | 2025 年 7 月 25 日 |
 | 0.28d | 2025 年 7 月 24 日 |
-| [0.28c](/zh/version/0_28c) | 2025 年 7 月 18 日 |
-| [0.28b](/zh/version/0_28b) | 2025 年 7 月 15 日 |
-| [0.28a](/zh/version/0_28a) | 2025 年 7 月 14 日 |
+| [0.28c](/version/0_28c) | 2025 年 7 月 18 日 |
+| [0.28b](/version/0_28b) | 2025 年 7 月 15 日 |
+| [0.28a](/version/0_28a) | 2025 年 7 月 14 日 |
 
 ## 0.27
 | 版本号 | 发布日期 |
@@ -177,4 +177,4 @@ dateCreated: '2024-01-29T19:07:22.980Z'
 
 | 版本名称 | 发布日期 |
 | - | - |
-| [WePlay Expo Edition](/zh/version/weplay_expo_edition) | 2025 年 11 月 22 日 |
+| [WePlay Expo Edition](/version/weplay_expo_edition) | 2025 年 11 月 22 日 |

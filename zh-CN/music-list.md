@@ -24,7 +24,7 @@ dateCreated: '2024-01-29T18:29:14.198Z'
 | 4ASCEND | 4ASCEND 小游戏 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
 | 4ASCEND Night | 4ASCEND 小游戏 | ginkiha | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1NH4m6mEzx/) |
 | Battle | 在编织者之森战斗 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1kZf5YiEUK/) |
-| Battle Nusi | 与[森之领主](/zh/enemy/lord-of-the-forest)战斗时 | An-fillnote | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1Wof5YMEnZ/) |
+| Battle Nusi | 与[森之领主](/enemy/lord-of-the-forest)战斗时 | An-fillnote | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1Wof5YMEnZ/) |
 | Cornehl | 魔女的杂货店 | An-fillnote | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1ejfLYWEiw/) |
 | Cornehl Night | 魔女的杂货店（夜间） | An-fillnote | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV19jfLYWELV/) |
 | Dojogame | 在道馆进行训练 | hinayua | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV16eF7eCEdn/) |
@@ -37,7 +37,7 @@ dateCreated: '2024-01-29T18:29:14.198Z'
 | Ixia Normal | 参与伊夏的战斗 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX) |
 | Ixia Usual | 遇到伊夏 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhR) |
 | Lull-a Trailblazer | 在拓荒者山岳战斗 | yoho | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1LtUVBHE6K/) |
-| Mountain Spider | 与[山蜘蛛](/zh/enemy/mountain-spider)战斗时 | rN | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1W8cwzeE41/) |
+| Mountain Spider | 与[山蜘蛛](/enemy/mountain-spider)战斗时 | rN | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1W8cwzeE41/) |
 | Normal | 编织者之森 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
 | Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
 | Normal (Nightingale Mix) | 在编织者之森遇到南丁格尔 | ginkiha | Chapter 0&1 | [BiliBili](https://www.bilibili.com/video/BV1T71dBEENs/) |

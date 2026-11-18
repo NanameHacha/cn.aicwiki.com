@@ -18,12 +18,12 @@ dateCreated: '2024-05-01T09:21:46.425Z'
 | 英文名称 | Armored Puppet (Contaminated) |
 | 最大 HP | 1085 |
 | 最大 MP | 450 |
-| 掉落素材 | [宝箱：素材++](/zh/chest-reels) |
-| 相关魔物 | [木偶店主](/zh/enemy/sales-puppet)、[机甲木偶](/zh/enemy/armoured-wooden-puppet) |
+| 掉落素材 | [宝箱：素材++](/chest-reels) |
+| 相关魔物 | [木偶店主](/enemy/sales-puppet)、[机甲木偶](/enemy/armoured-wooden-puppet) |
 
 # 出现地点
 
-诺艾儿杀死[木偶店主](/zh/enemy/sales-puppet)后，机甲木偶（污染体）可能在[木偶复仇战](/zh/battle-locations/puppet-revenge)中生成。
+诺艾儿杀死[木偶店主](/enemy/sales-puppet)后，机甲木偶（污染体）可能在[木偶复仇战](/battle-locations/puppet-revenge)中生成。
 
 # 行动方式
 

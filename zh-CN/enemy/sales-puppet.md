@@ -19,11 +19,11 @@ dateCreated: '2024-09-17T14:54:48.297Z'
 | 最大 HP | 1 |
 | 最大 MP | 1 |
 | 掉落素材 | 无 |
-| 相关魔物 | [机甲木偶](/zh/enemy/armoured-wooden-puppet)、[机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated) |
+| 相关魔物 | [机甲木偶](/enemy/armoured-wooden-puppet)、[机甲木偶（污染体）](/enemy/armoured-wooden-puppet-contaminated) |
 
 # 出现地点
 
-木偶店主会在野外区域的特定地点随机出现。具体的可能出现位置详见[地图](/zh/maps)。
+木偶店主会在野外区域的特定地点随机出现。具体的可能出现位置详见[地图](/maps)。
 
 # 行动方式
 
@@ -31,5 +31,5 @@ dateCreated: '2024-09-17T14:54:48.297Z'
 
 - 木偶店主可以被诺艾儿的魔法锁定。
 
-- 击杀木偶店主后，一些战斗点有概率被替换为[木偶复仇战](/zh/battle-locations/puppet-revenge)。可以触发木偶复仇战的战斗点详见[战斗点列表](/zh/battle-locations#战斗点列表)。
+- 击杀木偶店主后，一些战斗点有概率被替换为[木偶复仇战](/battle-locations/puppet-revenge)。可以触发木偶复仇战的战斗点详见[战斗点列表](/battle-locations#战斗点列表)。
 

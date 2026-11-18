@@ -19,7 +19,7 @@ dateCreated: '2024-04-29T08:24:35.895Z'
 | 英文名称 | Mole Snake |
 | 最大 HP | 180 |
 | 最大 MP | 300 |
-| 掉落素材 | [蛇皮](/zh/item/snake-skin) |
+| 掉落素材 | [蛇皮](/item/snake-skin) |
 
 # 出现地点
 

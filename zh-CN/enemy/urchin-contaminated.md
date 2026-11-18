@@ -20,8 +20,8 @@ dateCreated: '2024-04-30T04:21:58.678Z'
 | 英文名称 | Urchin (Contaminated) |
 | 最大 HP | 350 |
 | 最大 MP | 432 |
-| 掉落素材 | [剑山的刺](/zh/item/urchin-spine) |
-| 相关魔物 | [剑山](/zh/enemy/urchin) |
+| 掉落素材 | [剑山的刺](/item/urchin-spine) |
+| 相关魔物 | [剑山](/enemy/urchin) |
 
 # 出现地点
 

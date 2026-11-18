@@ -71,6 +71,6 @@ dateCreated: '2024-01-29T18:23:32.002Z'
 
 # 另见
 
-- [语言与书写系统](/zh/world-outlook/language) —— 游戏中的一套独特的符号体系。
+- [语言与书写系统](/world-outlook/language) —— 游戏中的一套独特的符号体系。
 
 [^1]: 即《和班尼特福迪一起攻克难关》（*Getting Over It with Bennett Foddy*）

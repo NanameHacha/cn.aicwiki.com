@@ -19,7 +19,7 @@ dateCreated: '2024-04-29T07:01:33.427Z'
 | 英文名称 | Porifera |
 | 最大 HP | 190 |
 | 最大 MP | 660 |
-| 掉落素材 | [海绵的球壳](/zh/item/round-sponge-shell) |
+| 掉落素材 | [海绵的球壳](/item/round-sponge-shell) |
 
 # 出现地点
 

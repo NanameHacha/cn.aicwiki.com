@@ -19,11 +19,11 @@ dateCreated: '2024-04-29T05:30:02.501Z'
 | 最大 HP | 100 |
 | 最大 MP | 200 |
 | 掉落素材 | [电路板]() |
-| 相关魔物 | [木偶](/zh/enemy/puppet) |
+| 相关魔物 | [木偶](/enemy/puppet) |
 
 # 出现地点
 
-导弹发射架可能经由[木偶](/zh/enemy/puppet)的机关建造生成，或者在拓荒者山岳的[木偶复仇战](/zh/battle-locations/puppet-revenge)中自然生成。
+导弹发射架可能经由[木偶](/enemy/puppet)的机关建造生成，或者在拓荒者山岳的[木偶复仇战](/battle-locations/puppet-revenge)中自然生成。
 
 # 行动方式
 

@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: '2024-01-29T18:50:06.996Z'
 ---
 
-- [已有/使用中Excel表格文件下载(便于下载后编辑)](/zh/useful-resource/exist-excel)
+- [已有/使用中Excel表格文件下载(便于下载后编辑)](/useful-resource/exist-excel)

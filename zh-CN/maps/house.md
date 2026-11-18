@@ -17,4 +17,4 @@ dateCreated: '2026-02-20T05:56:38.427Z'
 
 # 连接区域
 
-- 右：[编织者之森](/zh/maps/forest)
+- 右：[编织者之森](/maps/forest)

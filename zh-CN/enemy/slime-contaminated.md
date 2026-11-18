@@ -20,8 +20,8 @@ dateCreated: '2024-03-01T07:51:03.528Z'
 | 英文名称 | Slime (Contaminated) |
 | 最大 HP | 720 |
 | 最大 MP | 240 |
-| 掉落素材 | [史莱姆的假卵](/zh/item/fake-slime-egg) |
-| 相关魔物 | [史莱姆](/zh/enemy/slime) |
+| 掉落素材 | [史莱姆的假卵](/item/fake-slime-egg) |
+| 相关魔物 | [史莱姆](/enemy/slime) |
 
 # 出现地点
 

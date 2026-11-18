@@ -28,6 +28,6 @@ dateCreated: '2026-02-20T06:05:38.923Z'
 
 # 连接区域
 
-- 左：[编织者之森](/zh/maps/forest)
-- 右：[拓荒者山岳](/zh/maps/mount)
-- 下：[恩惠圣母之石](/zh/maps/sacred)
+- 左：[编织者之森](/maps/forest)
+- 右：[拓荒者山岳](/maps/mount)
+- 下：[恩惠圣母之石](/maps/sacred)

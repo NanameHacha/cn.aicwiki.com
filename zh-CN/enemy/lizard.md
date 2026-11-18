@@ -19,7 +19,7 @@ dateCreated: '2024-04-29T09:30:50.365Z'
 | 英文名称 | Lizard |
 | 最大 HP | 100 |
 | 最大 MP | 220 |
-| 掉落素材 | [扭动的壁虎尾](/zh/item/lizard-tail) |
+| 掉落素材 | [扭动的壁虎尾](/item/lizard-tail) |
 
 # 出现地点
 
