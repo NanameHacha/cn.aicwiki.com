@@ -2,7 +2,7 @@
 title: 沙盒
 description: 仅供测试编辑使用
 published: false
-date: '2026-11-18T08:47:34.332Z'
+date: '2026-11-18T09:01:52.526Z'
 tags: []
 editor: markdown
 dateCreated: '2024-05-07T16:15:21.071Z'
@@ -44,5 +44,5 @@ dateCreated: '2024-05-07T16:15:21.071Z'
 
 
 img test
-![hello.png](/assets/hello.png)
+![common-item.png](/assets/items/common-item.png)
 
