@@ -2,7 +2,7 @@
 title: 编织者之森
 description: 包含森林、荆棘与许多魔族的野外区域。
 published: true
-date: '2026-08-29T13:53:38.462Z'
+date: '2026-11-18T11:32:46.740Z'
 tags:
   - map
 editor: markdown
@@ -16,28 +16,28 @@ dateCreated: '2026-02-20T06:01:34.419Z'
 ## 地图册 {.tabset}
 ### 总览
 
-![编织者之森](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-ver.20260306a.png =875x){ .pixelated-image }
+![编织者之森](/assets/map/alice-in-cradle-地图-编织者之森-ver.20260306a.png =875x){ .pixelated-image }
 
 ### NPC刷新点
 
-![编织者之森NPC刷新点](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-npc刷新点-ver.20260228a.png =875x){ .pixelated-image }
+![编织者之森NPC刷新点](/assets/map/alice-in-cradle-地图-编织者之森-npc刷新点-ver.20260228a.png =875x){ .pixelated-image }
 
 ### 钓鱼点
 
-![编织者之森NPC刷新点](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-钓鱼点-ver.20260220a.png =875x){ .pixelated-image }
+![编织者之森NPC刷新点](/assets/map/alice-in-cradle-地图-编织者之森-钓鱼点-ver.20260220a.png =875x){ .pixelated-image }
 
 # 地图明细 
 
 ## 明细 {.tabset}
 
 ### 战斗点
-![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_战斗点.png](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-战斗点.png)
+![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_战斗点.png](/assets/map/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-战斗点.png)
 
 ### 宝箱
-![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_宝箱.png](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-宝箱.png)
+![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_宝箱.png](/assets/map/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-宝箱.png)
 
 ### 资源采集点
-![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_资源采集点.png](/assets/zh-cn/地图/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-资源采集点.png)
+![alice_in_cradle__地图_编织者之森_0.29f_26034_地图明细_资源采集点.png](/assets/map/alice-in-cradle-地图-编织者之森-0.29f-26034-地图明细-资源采集点.png)
 
 ## 明细表
 
