@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2025-07-15T02:26:55.811Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-monster-material.png) <span>黑暗精华（<ruby lang="ja">ダークエッセンス<rt>Dark Essence</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-monster-material.png) <span>黑暗精华（<ruby lang="ja">ダークエッセンス<rt>Dark Essence</rt></ruby>）</span></div>||
 | - | - |
 | 魔族被击败后掉落的带有粘性的液体。 ||
 | 类别 | 食材、液体 |

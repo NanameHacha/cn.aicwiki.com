@@ -15,7 +15,7 @@ editor: markdown
 dateCreated: '2025-07-14T10:51:17.564Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/milk-bottle.png) <span>牧场纯牛奶（<ruby lang="ja">牧場ミルク<rt>Farm-fresh Milk</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/items/milk-bottle.png) <span>牧场纯牛奶（<ruby lang="ja">牧場ミルク<rt>Farm-fresh Milk</rt></ruby>）</span></div> ||
 | - | - |
 | 牛奶这种东西就是要45度角叉着腰<br>把仰望天空的pose摆好了才能喝…… ||
 | 类别 | 保健品、液体、乳品、HP恢复、MP恢复 |

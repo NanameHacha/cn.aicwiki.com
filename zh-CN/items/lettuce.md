@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:14:21.819Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-vegetable.png) <span>生菜（<ruby lang="ja">レタス<rt>Lettuce</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-vegetable.png) <span>生菜（<ruby lang="ja">レタス<rt>Lettuce</rt></ruby>）</span></div>||
 | - | - |
 | 绿油油的鲜嫩蔬菜。 ||
 | 类别 | 食材、蔬菜 |

@@ -13,7 +13,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:12:30.417Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-fruit.png) <span>血苹果（<ruby lang="ja">ブラッドアッフル<rt>Blood Apple</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-fruit.png) <span>血苹果（<ruby lang="ja">ブラッドアッフル<rt>Blood Apple</rt></ruby>）</span></div>||
 | - | - |
 | 吃下去可以恢复一些体力。<br>这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。 ||
 | 类别 | 保健品、食材、水果、HP恢复 |
@@ -65,7 +65,7 @@ dateCreated: '2024-01-29T19:12:30.417Z'
 血苹果可在野外进行采集。
 
 <!-- 这图呢？ -->
-<!--![采集血苹果](/assets/global/items/blood_apple/get_blood_apple.png)
+<!--![采集血苹果](/assets/items/blood_apple/get_blood_apple.png)
 - A：血苹果✦ x2-3、血苹果✦✦ x2
 - B：血苹果✦ x2-3、血苹果✦✦ x2-->
 

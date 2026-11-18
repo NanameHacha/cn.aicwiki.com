@@ -12,7 +12,7 @@ editor: markdown
 dateCreated: '2025-07-14T10:10:22.039Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/forbidden-fruit.png) <span>禁忌的苹果（<ruby lang="ja">禁忌のリンゴ<rt>Forbidden Fruit</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/forbidden-fruit.png) <span>禁忌的苹果（<ruby lang="ja">禁忌のリンゴ<rt>Forbidden Fruit</rt></ruby>）</span></div>||
 | - | - |
 | 形状奇妙的苹果。<br>或许跟古老的神话有着一些联系…？ ||
 | 类别 | 保健品、提升兴奋率、食材、水果 |

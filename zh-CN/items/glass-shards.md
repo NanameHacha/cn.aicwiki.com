@@ -10,7 +10,7 @@ editor: markdown
 dateCreated: '2025-07-15T04:14:29.797Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-monster-material.png) <span>玻璃碎片（<ruby lang="ja">ガラスの破片<rt>Glass Shards</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-monster-material.png) <span>玻璃碎片（<ruby lang="ja">ガラスの破片<rt>Glass Shards</rt></ruby>）</span></div>||
 | - | - |
 | 透明且坚硬的碎片。<br>一部分魔族会在其内骨骼中生成这种物质。 ||
 | 类别 | 素材 |

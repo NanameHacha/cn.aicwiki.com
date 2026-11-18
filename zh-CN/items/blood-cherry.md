@@ -13,7 +13,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:13:07.207Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/blood-cherry.png) <span>血樱桃（<ruby lang="ja">ブラッドチェリー<rt>Blood Cherry</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/blood-cherry.png) <span>血樱桃（<ruby lang="ja">ブラッドチェリー<rt>Blood Cherry</rt></ruby>）</span></div>||
 | - | - |
 | 吃下去可以恢复少量体力。<br>这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。 ||
 | 类别 | 保健品、食材、水果、HP恢复 |

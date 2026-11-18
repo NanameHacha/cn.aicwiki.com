@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2025-07-15T03:46:29.494Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-ore.png) <span>紫水晶（<ruby lang="ja">アメシスト<rt>Amethyst</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-ore.png) <span>紫水晶（<ruby lang="ja">アメシスト<rt>Amethyst</rt></ruby>）</span></div>||
 | - | - |
 | 随处可见的矿物，跟石英区别不大。<br>但是姐姐似乎挺喜欢这种石头，帮她收集的话她肯定会很开心。 ||
 | 类别 | 素材、珠宝矿石 |

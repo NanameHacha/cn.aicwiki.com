@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2024-05-05T15:38:11.202Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-item.png) <span>煤炭（<ruby lang="ja">石炭<rt>Coal</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-item.png) <span>煤炭（<ruby lang="ja">石炭<rt>Coal</rt></ruby>）</span></div>||
 | - | - |
 | 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。 ||
 | 类别 | 素材、工艺原料 |
