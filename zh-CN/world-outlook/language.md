@@ -2,7 +2,7 @@
 title: 语言与书写系统
 description: 关于游戏内的架空文字
 published: true
-date: '2026-02-28T18:33:06.932Z'
+date: '2026-11-18T11:37:44.374Z'
 tags:
   - world-outlook
 editor: markdown
@@ -24,7 +24,7 @@ dateCreated: '2025-07-20T07:01:38.240Z'
 
 该文字根据其样式可分为印刷字体和像素字体，如图所示。
 
-![AliceInCradle文字解译.png](/assets/zh-cn/彩蛋/aliceincradle文字解译-20241209b.png =500x){.align-center}
+![AliceInCradle文字解译.png](/assets/easter-eggs/aliceincradle文字解译-20241209b.png =500x){.align-center}
 
 像素字体中的每一个字符使用 5 × 5 的点阵表示。
 
@@ -69,7 +69,7 @@ dateCreated: '2025-07-20T07:01:38.240Z'
 
 该文字并非对现实语言的简单映射，而是一种结合了日语和英语的独创符号系统。
 
-![dwarf_char.png](/assets/global/easter-eggs/dwarf-char.png){.align-center}
+![dwarf_char.png](/assets/easter-eggs/dwarf-char.png){.align-center}
 
 现有的矮人文字中，有关于人称代词、时间、天文、农业、流体、内心活动、地点、空间关系、种族、知识、数字等类型的文字。
 
