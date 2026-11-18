@@ -2,13 +2,13 @@
 title: 沙盒
 description: 仅供测试编辑使用
 published: false
-date: '2026-11-18T08:43:46.734Z'
+date: '2026-11-18T08:47:34.332Z'
 tags: []
 editor: markdown
 dateCreated: '2024-05-07T16:15:21.071Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-item.png) <span>物品名称</span></div> ||
+| <div markdown>![物品图标](/assets/items/common-item.png) <span>物品名称</span></div> ||
 | - | - |
 | 物品描述 ||
 | 类别 | - |
@@ -17,7 +17,7 @@ dateCreated: '2024-05-07T16:15:21.071Z'
 | 饱腹度 | - |
 { .info-table }
 
-| <div markdown>![物品图标](/assets/global/items/common-fruit.png) <span>血苹果（<ruby>ブラッドアッフル<rt>Blood Apple</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/items/common-fruit.png) <span>血苹果（<ruby>ブラッドアッフル<rt>Blood Apple</rt></ruby>）</span></div> ||
 | - | - |
 | 吃下去可以恢复一些体力。<br>这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。 ||
 | 类别 | 保健品、食材、水果、HP恢复 |
@@ -25,8 +25,6 @@ dateCreated: '2024-05-07T16:15:21.071Z'
 | 可堆叠 | 8 |
 | 饱腹度 | 2 |
 { .info-table }
-
-
 
 
 <div class='decmp'>
