@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2025-07-15T03:52:24.956Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-ore.png) <span>铬矿（<ruby lang="ja">クロム<rt>Chrome</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-ore.png) <span>铬矿（<ruby lang="ja">クロム<rt>Chrome</rt></ruby>）</span></div>||
 | - | - |
 | 古代的人们似乎跟我们一样，也曾用这种金属构建过属于他们的文明。<br>但因为他们使用的素材中能抵抗魔力腐蚀的并不多，所以几乎没有留存下什么遗物。 ||
 | 类别 | 素材、珠宝矿石 |

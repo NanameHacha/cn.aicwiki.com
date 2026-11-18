@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:13:52.772Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-vegetable.png) <span>番茄（<ruby lang="ja">トマト<rt>Tomato</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-vegetable.png) <span>番茄（<ruby lang="ja">トマト<rt>Tomato</rt></ruby>）</span></div>||
 | - | - |
 | 多汁粘稠的口感不太能接受。但做成番茄酱就很喜欢了。 ||
 | 类别 | 食材、蔬菜 |

@@ -10,7 +10,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:16:13.701Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-plant.png) <span>黑纹药草（<ruby lang="ja">黒縞のハーブ<rt>Black-striped Herb</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/items/common-plant.png) <span>黑纹药草（<ruby lang="ja">黒縞のハーブ<rt>Black-striped Herb</rt></ruby>）</span></div> ||
 | - | - |
 | 「只要用了由这种药草提炼而成的精油，整个人都会变得轻飘飘的，感觉非常舒服哦~！」<br>…姐姐是这么说的。 ||
 | 类别 | 素材 |

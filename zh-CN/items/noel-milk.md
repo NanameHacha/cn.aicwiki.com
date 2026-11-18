@@ -15,7 +15,7 @@ editor: markdown
 dateCreated: '2024-05-05T11:21:50.973Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/noel-juice-bottle.png) <span>诺艾儿乳（<ruby lang="ja">ノエルミルク<rt>Noel Milk</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/items/noel-juice-bottle.png) <span>诺艾儿乳（<ruby lang="ja">ノエルミルク<rt>Noel Milk</rt></ruby>）</span></div> ||
 | - | - |
 | 本该是生宝宝的精灵母亲才会分泌的东西……<br>调制完毕后需要空瓶子才能带走。 ||
 | 类别 | 诺艾尔自产、乳品、液体、HP恢复、MP恢复、兴奋率相关 |

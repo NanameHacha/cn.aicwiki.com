@@ -10,7 +10,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:17:00.482Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-plant.png) <span>铃兰球茎（<ruby lang="ja">鈴蘭の球根<rt>Moonlight Muguet's Bulb</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/items/common-plant.png) <span>铃兰球茎（<ruby lang="ja">鈴蘭の球根<rt>Moonlight Muguet's Bulb</rt></ruby>）</span></div> ||
 | - | - |
 | 似乎有剧毒的样子。姐姐经常跟我强调，这个东西绝对不能放进嘴里。 ||
 | 类别 | 素材 |

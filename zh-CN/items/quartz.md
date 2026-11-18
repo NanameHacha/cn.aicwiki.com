@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2025-07-15T02:48:29.994Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-item.png) <span>石英（<ruby lang="ja">水晶<rt>Quartz</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-item.png) <span>石英（<ruby lang="ja">水晶<rt>Quartz</rt></ruby>）</span></div>||
 | - | - |
 | 就是块略带闪耀光泽的石头。 ||
 | 类别 | 素材、工艺原料 |

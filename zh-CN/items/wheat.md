@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2024-01-29T19:15:34.181Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-grain.png) <span>小麦（<ruby lang="ja">コムギ<rt>Wheat</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-grain.png) <span>小麦（<ruby lang="ja">コムギ<rt>Wheat</rt></ruby>）</span></div>||
 | - | - |
 | 地上城市以这种植物作为主食。可作为便携食品的素材。 ||
 | 类别 | 食材、谷物 |

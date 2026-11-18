@@ -11,7 +11,7 @@ editor: markdown
 dateCreated: '2025-07-15T03:39:22.029Z'
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common-ore.png) <span>铁矿（<ruby lang="ja">鉄<rt>Iron</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/items/common-ore.png) <span>铁矿（<ruby lang="ja">鉄<rt>Iron</rt></ruby>）</span></div>||
 | - | - |
 | 人们口中常说的铁矿石。 ||
 | 类别 | 素材、珠宝矿石 |
