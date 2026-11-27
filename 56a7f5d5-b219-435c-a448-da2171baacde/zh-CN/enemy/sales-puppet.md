@@ -32,4 +32,3 @@ dateCreated: '2024-09-17T14:54:48.297Z'
 - 木偶店主可以被诺艾儿的魔法锁定。
 
 - 击杀木偶店主后，一些战斗点有概率被替换为[木偶复仇战](/battle-locations/puppet-revenge)。可以触发木偶复仇战的战斗点详见[战斗点列表](/battle-locations#战斗点列表)。
-

@@ -35,4 +35,3 @@ dateCreated: '2024-05-05T11:12:59.055Z'
 ## 交易
 ![get_elf_egg.png](/assets/items/get-elf-egg.png)
 在如图所示位置可以遇到两位NPC，其中一位售卖，购买后即消失，外出战斗后会重新刷新。
-
